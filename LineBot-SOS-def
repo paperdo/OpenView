@@ -1,3 +1,4 @@
+import random
 import json
 from linebot import LineBotApi, WebhookHandler
 # 載入對應的函式庫
